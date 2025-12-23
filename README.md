@@ -1,2 +1,2 @@
 # Note
-   **./Fightclub.md**
+   **/Fightclub.md**
