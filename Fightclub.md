@@ -24,3 +24,6 @@ We're slowly learning that fact. We're very very pissed off.**
 **I say never be complete. I say stop being perfect. I say let let's evolve. Chips fall where they may.**
 
 **No fear. No distractions. The ability to let that which does not matter truly slide.**
+
+## Fightclub
+1. First rule of Fightclub: DO not talk about Fightclub
