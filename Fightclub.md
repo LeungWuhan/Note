@@ -21,4 +21,3 @@ We're slowly learning that fact. We're very very pissed off.
 Our gret war is a spiritual war. Our great depression. is our life.**
 
 **I say never be complete. I say stop being perfect. I say let let's evolve. Chips fall where they may.**
- 我是手机
