@@ -4,7 +4,8 @@
 
 **The things you own end up owning you.**
 
-**You are not your job. You're not  how much money you have in the bank, not the car you drive, not the contents of your wallet**
+**You are not your job. You're not  how much money you have in the bank, not the car you drive, not the contents of your wallet
+You're part of something bigger**
 
 *What are we then ? 
  Consumers?*
