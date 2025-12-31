@@ -26,5 +26,7 @@ We're slowly learning that fact. We're very very pissed off.**
 
 **No fear. No distractions. The ability to let that which does not matter truly slide.**
 
-## Fightclub
-1. First rule of Fightclub: DO not talk about Fightclub
+## Fightclub Rules
+1. First rule of Fightclub: You do not talk about Fightclub
+2. Second rule of FightClub : DO NOT talk about Fightclub
+3. 
