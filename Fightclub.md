@@ -21,8 +21,6 @@ Murder Crime Proverty these things don't concern me. What concerns me. celebrity
 
 **If you were to die right now. How would you feel about you life ?**
 
-**I see all this potential. and I see it squandered.
-
 **We've all been raised on television to believe that one day we'd all be millionaires and movie gods and rock starts. But we won't 
 We're slowly learning that fact. We're very very pissed off.** 
 
