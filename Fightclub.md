@@ -47,7 +47,6 @@ Stop trying to control everything and just let go! LET GO ! Let go!**
 
 ## URL 
 
-**Fightclub-搏击俱乐部-1999_蓝光国英双语双字.mp4**
-[电影:百度网盘](https://pan.baidu.com/s/14ueRG20WPsgassXPrHFDnA?pwd=u8e4)
-[书籍:百度网盘](https://pan.baidu.com/s/1UPRvylMJ9zRjNGASpetY5g?pwd=1u6j)
+[电影:](https://pan.baidu.com/s/14ueRG20WPsgassXPrHFDnA?pwd=u8e4)
+[书籍:](https://pan.baidu.com/s/1UPRvylMJ9zRjNGASpetY5g?pwd=1u6j)
 
