@@ -32,25 +32,27 @@ But we won't We're slowly learning that fact. We're very very pissed off.**
 
 
 ### 1:23:54
-**T:His breakfast will taste better than any meal you and I have ever tasted. 
-"J:You had to give it to him He had a plan. And it started to make sense in a Tyler sort of way.
-    No fear. No distractions. The ability to let that which does not matter truly slide." 
-T:You are not your job. You're not  how much money you have in the bank. You're not the car you drive. You're not the contents of your wallet
+T:His breakfast will taste better than any meal you and I have ever tasted. 
+
+**J: You had to give it to him He had a plan. And it started to make sense in a Tyler sort of way.
+    No fear. No distractions. The ability to let that which does not matter truly slide."**
+
+**T: You are not your job. You're not  how much money you have in the bank. You're not the car you drive. You're not the contents of your wallet
     You're not your fucking khakis. You're part of something bigger. You are the all-singing,all-dancing crap of the world.**
 
 
 ### 1:39:12
-**T:If you were to die right now. How would you feel about you life ?
- "J:I don't know! I wouldn't feel anything good about my life. Is that what you want to hear me say? Fine. Come on ! Take the wheel!
- T:Look at you! You're fucking pathetic!
- J:Why? Why? What are you talking about?
- T:Why do you think I blew up your condo? Hitting bottom isn't a weekend retreat.It's not a goddamn seminar
-Stop trying to control everything and just let go! LET GO ! Let go!**
+T: If you were to die right now. How would you feel about you life ?
+J: I don't know! I wouldn't feel anything good about my life. Is that what you want to hear me say? Fine. Come on ! Take the wheel!
+T: Look at you! You're fucking pathetic!
+J: Why? Why? What are you talking about?
+
+T: Why do you think I blew up your condo? Hitting bottom isn't a weekend retreat.It's not a goddamn seminar
+**Stop trying to control everything and just let go! LET GO ! Let go!**
 
 
 ## URL 
 
 [电影](https://pan.baidu.com/s/14ueRG20WPsgassXPrHFDnA?pwd=u8e4)
-
 [书籍](https://pan.baidu.com/s/1UPRvylMJ9zRjNGASpetY5g?pwd=1u6j)
 
