@@ -10,8 +10,11 @@
 
 ### 0:30:00
 J: A comforter.   T:It's a blanket. Just a blanket.
+
 T: Why do guys like us know what a duvet is? Is this essential to our survival in the hunter-gatherer sense of the world? NO.
+
 T: What are we then?  J:Consumers?
+
 T: Right. We are consumers.We are by-products of a lifestyle obsession.
 Murder Crime Poverty these things don't concern me. What concerns me are celebrity magazines, television with 500 channels, some guy's name on my underwear.
 I say never be complete. I say stop being perfect. I say let let's evolve. Chips fall where they may.
