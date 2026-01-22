@@ -9,7 +9,7 @@
 8. And the eighth and final rule... If this is your fist night at Fight club, you have to fight
 
 ### 0:30:00
-**J: "A comforter."    It's a blanket. Just a blanket.
+**J: A comforter.   T:It's a blanket. Just a blanket.
 T:Why do guys like us know what a duvet is? Is this essential to our survival in the hunter-gatherer sense of the world? NO.
 T:What are we then?  J:"Consumers?"
 T:Right. We are consumers.We are by-products of a lifestyle obsession.
@@ -47,6 +47,7 @@ Stop trying to control everything and just let go! LET GO ! Let go!**
 
 ## URL 
 
-[电影:](https://pan.baidu.com/s/14ueRG20WPsgassXPrHFDnA?pwd=u8e4)
-[书籍:](https://pan.baidu.com/s/1UPRvylMJ9zRjNGASpetY5g?pwd=1u6j)
+[电影](https://pan.baidu.com/s/14ueRG20WPsgassXPrHFDnA?pwd=u8e4)
+
+[书籍](https://pan.baidu.com/s/1UPRvylMJ9zRjNGASpetY5g?pwd=1u6j)
 
