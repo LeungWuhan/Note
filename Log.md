@@ -232,11 +232,11 @@
 
 ---
 ## 模板
-### 纪律
+#### 纪律
 - [ ] work (/500)  ***at least 500/week***
 - [ ] log   ***everyday***
 - [ ] study  ***not find direction***
-- [ ] workout (/4) **3 times a week sum 1/100**
+- [ ] workout (/4) ***3 times a week sum 1/100***
 
 - 坚持不脱产 每月保证一定收入
 - 每天坚持写Log 记录每天都干了什么
@@ -247,9 +247,9 @@
 ### 道路是曲折的 前途是光明的
 ![教员](./img/Log/Mao.jpg)
 
-## 1.24 Sat
+### 1.24 Sat
 
-### 纪律
+#### 纪律
 - [ ] work (/500)  ***at least 500/week***
 - [x] log   ***everyday***
 - [ ] study  ***not find direction***
@@ -258,9 +258,9 @@
 今天上午因为电脑电池的原因，直到下午一直在折腾电池 说真的我是想把笔记本触控板和电池都换新的，但是 害头疼....
 现在要求前一天制定每天的计划 第二天直接围绕计划来行动
 
-## 1.25 Sun
+### 1.25 Sun
 
-### 纪律
+#### 纪律
 - [x] Work (160/500)  ***At least 500/Week***
 - [x] Log   ***Everyday***
 - [ ] Study  ***Not find direction***
@@ -268,7 +268,14 @@
 
 今天运气还算不错，赚了160。明天再接再厉. 开启新的一周 必须四条纪律全部完成
 
+## New week
+### 1.26 Mon
 
+#### 纪律
+- [ ] work (/500)  ***at least 500/week***
+- [ ] log   ***everyday***
+- [ ] study  ***not find direction***
+- [ ] workout (/4) ***3 times a week sum 1/100***
  
 
 
