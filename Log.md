@@ -231,7 +231,12 @@
 这些事项可能短期都没办法 看到成效,但长期来看对未来肯定是有益处的 至少比每天什么都不做要强
 
 ---
+## 模板
 ### 纪律
+- [ ] work (/500)  ***at least 500/week***
+- [ ] log   ***everyday***
+- [ ] study  ***not find direction***
+- [ ] workout (/4) **3 times a week sum 1/100**
 
 - 坚持不脱产 每月保证一定收入
 - 每天坚持写Log 记录每天都干了什么
@@ -243,10 +248,12 @@
 ![教员](./img/Log/Mao.jpg)
 
 ## 1.24 Sat
-- [x] Workout 游泳 *Sum* 1/100
-- [x] Log 
-- [ ] Study
-- [ ] Work
+
+### 纪律
+- [ ] work (/500)  ***at least 500/week***
+- [x] log   ***everyday***
+- [ ] study  ***not find direction***
+- [x] workout (1/4) **3 times a week sum 1/100**
 
 今天上午因为电脑电池的原因，直到下午一直在折腾电池 说真的我是想把笔记本触控板和电池都换新的，但是 害头疼....
 现在要求前一天制定每天的计划 第二天直接围绕计划来行动
@@ -254,10 +261,14 @@
 ## 1.25 Sun
 
 ### 纪律
-- [ ] Work (At least 500/Week)
-- [ ] Log (Everyday)
-- [ ] Study (Not find direction)
-- [ ] Workout (3 times a Week) *Sum* 1/100
+- [x] Work (160/500)  ***At least 500/Week***
+- [x] Log   ***Everyday***
+- [ ] Study  ***Not find direction***
+- [ ] Workout (/4) **3 times a Week Sum 1/100** 
+
+今天运气还算不错，赚了160。明天再接再厉. 开启新的一周 必须四条纪律全部完成
+
+
  
 
 
