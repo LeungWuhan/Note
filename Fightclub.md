@@ -1,4 +1,5 @@
 ## Fight Club Rules 0:42:57
+![TylerAndJack](./img/Fightclub/R-C.jpg) 
 1. The First rule of Fight Club: You do not talk about Fight Club!
 2. The second rule of Fight Club : You DO NOT talk about Fight Club!
 3. Third rule of Fight club: someone yells stop, goes limp, taps out, the fight is over.
