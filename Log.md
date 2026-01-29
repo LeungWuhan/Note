@@ -285,17 +285,34 @@
 能充实起来，而不是坐着干等。比如我爱好或坚信未来一定会对自己有帮助的事情: 比如
 code 、金融、电气 总有一款适合我。白白等待只会让自己什么都来不及 时间在一点点的流逝
 
-
-
-
 ### 1.27 Tue
 #### 纪律
-- [ ] work (/500)  ***at least 500/week***
-- [ ] log   ***everyday***
+- [ ] work (100/500)  ***at least 500/week***
+- [x] log   ***everyday***
 - [ ] study  ***ZShell***
 - [ ] workout (/4) ***3 times a week sum 1/100***
  
+这次换了个电池 性价比真高，平均可以使用6h 充满只需一小时，这续航还要什么轻薄本
+爽 应该早点换的 早点随时随地大小code
 
+### 1.28 Wed
+#### 纪律
+- [x] work (100/500)  ***at least 500/week***
+- [x] log   ***everyday***
+- [ ] study  ***ZShell***
+- [ ] workout (1/4) ***3 times a week sum 2/100***
+
+在黄石休息了一天
+
+### 1.29 The
+#### 纪律
+- [ ] work (100/500)  ***at least 500/week***
+- [x] log   ***everyday***
+- [ ] study  ***ZShell & English***
+- [ ] workout (1/4) ***3 times a week sum 2/100***
+
+头大开始要准备论文了，不清楚这个星期的work能不能完成。已经准备想直接找枪手上了。然后我继续
+work让专业的人做专业的事
 
 
 
