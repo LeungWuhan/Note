@@ -331,7 +331,7 @@ work让专业的人做专业的事。
 **你坚信什么，什么就有可能成真**
 
 ### 1.31 Sat
-#### 纪律：无条件 无理由 服从 Enforce discipline like a Soldier
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
 - [x] work (320/500)  ***at least 500/week***
 - [x] log   ***everyday***
 - [ ] study  ***ZShell & English***
@@ -343,13 +343,38 @@ work让专业的人做专业的事。
 还有就是主要是昨晚完全没有休息好，刷小红书和b站刷的脑子空空的 没有什么意义
 现在新增一条纪律：每天12点前睡觉 并不能带手机或平板到床上 最多看一下书睡前
 
+### 2.1 Sun
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [x] work (440/500)  ***at least 500/week***
+- [x] log   ***everyday***
+- [ ] study  ***ZShell & English***
+- [ ] workout (1/4) ***3 times a week sum 2/100***
+- [x] Go to bed at 11 PM, No mobile phones or pad alloweed
 
+今天最担心的事还是发生了，在高架上发生追尾。所幸问题不是很大这次，赔了100块
+但下次或许没那么好运。这似乎在给我敲一个警钟这行我确实不能长久干下去了。真是讽刺
+忙活半天结果什么都是百忙.所以二月应该是我最后一个月把跑车当工作。现在最重要的应该是
+加快锻炼和准备好下一份工作。今天开车回到家感觉真的好累好累 这辈子都不想再开车的感觉
 
+![Car](./img/Log/car.jpg) 
 
+![Car](./img/Log/car2.jpg) 
 
+------------------------------------------------------------------
+------------------------------------------------------------------
 
+## New Week
 
+### 2.2 Mon
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [ ] work (/500)  ***at least 500/week***
+- [x] log   ***everyday***
+- [ ] study  ***ZShell & English***
+- [ ] workout (/4) ***3 times a week sum 2/100***
+- [x] Go to bed at 11 PM, No mobile phones or pad alloweed
 
+我想休息两天不想再跑车了，搞得我身心俱疲。感觉跑车就是特别磨人 开了一天车回来什么都不想干了
+神经高度紧绷 特别累说实话
 
 
 
