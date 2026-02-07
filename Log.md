@@ -406,6 +406,7 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
    所以我最后没有去追逐所谓的完美配置，就留了两个插件，尽量保持简单、出厂标准。明天我打算去图书馆 好好静下来看两本书、学会
    zshell 
 
+
 ### 2.5 Thr
 #### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
 - [ ] Work (/500)  ***at least 500/week***
@@ -427,7 +428,15 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 纪律,今天就破个例给别人看一眼 不管他怎么看待 我不予置评。也算坦诚面对这个结束 往后各自精彩
 
 
+### 2.6 Sat
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [ ] Work (/500)  ***at least 500/week***
+- [ ] Log   ***everyday***
+- [ ] Study  ***ZShell & English & Quantitative trading***
+- [ ] Workout (3/4) ***4 times a week sum 2/100***
+- [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
 
+忘了，今天调皮一下
 
 
 
