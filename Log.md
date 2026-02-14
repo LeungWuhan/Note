@@ -361,7 +361,7 @@ work让专业的人做专业的事。
 ------------------------------------------------------------------
 ------------------------------------------------------------------
 
-## New Week
+## New Week 
 
 ### 2.2 Mon
 #### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
@@ -439,8 +439,25 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 忘了，今天调皮一下
 
 
+### 2.7 - 2.14 
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [x] Work (120/500)  ***at least 500/week***
+- [x] Log   ***everyday***
+- [ ] Study  ***ZShell & English & Quantitative trading***
+- [ ] Workout (3/4) ***4 times a week sum 2/100***
+- [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
+
+因为几乎什么没有怎么执行，所以索性就没有。今天又是放纵日了 买了一些零食和酒还有日常的一些食品。主要是过年了
+害怕街边的店休息或涨价所以 索性都买一些。害 就当过年了 都喜庆喜庆 过完初三到20号开始就要 真正的对自己严格一点了
 
 
+### 2.15
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [x] Work (120/500)  ***at least 500/week***
+- [ ] Log   ***everyday***
+- [ ] Study  ***ZShell & English & Quantitative trading***
+- [ ] Workout (3/4) ***4 times a week sum 2/100***
+- [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
 
 
 
