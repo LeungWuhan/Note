@@ -468,15 +468,17 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 
 ### 2.17 Tue
 #### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [x] Workout (/4) ***4 times a week sum 2/100***
 - [x] Work (200/500)  ***at least 500/week***
 - [x] Log   ***everyday***
-- [ ] Study  ***ZShell***
-- [ ] Workout (/4) ***4 times a week sum 2/100***
 - [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
+      ~Study  ***ZShell***~
 
 这个算我坑蒙拐骗来的200块吧，哈哈哈只能先往好处想。说真的我感觉又开始学不进去zshell了，因为学这个对我来说本质和玩游戏对比
 区别不大 我现在最该努力的应该是未来的职业方向 但你说职业方向在哪我又说不出来。到最后只能说我有一定的天赋在软件上 外加上我
-之前投入了很多的时间和精力在这上面所以还是不想轻易的放弃、半途而废
+之前投入了很多的时间和精力在这上面所以还是不想轻易的放弃、半途而废。
+
+**洗完澡 我作如下战略部署：暂时废弃zshell 全面精力转向3-4月找工作战略部署准备 提前准备熟悉**
 
 
 

@@ -11,4 +11,12 @@ echo $str[(I)cdd]
  
 echo $str[(i)cd]
 
+#forloop String
+for i ({1..$#str}) {
+  echo $str[i]
+}
 
+#echo {0..100} 
+
+echo ${str/bc/ef}
+echo ${str//ab}
