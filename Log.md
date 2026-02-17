@@ -474,7 +474,8 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 - [ ] Workout (/4) ***4 times a week sum 2/100***
 - [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
 
-这个算我坑蒙拐骗来的200块吧，哈哈哈只能先往好处想
+这个算我坑蒙拐骗来的200块吧，哈哈哈只能先往好处想。说真的我感觉又开始学不进去zshell了，因为学这个对我来说本质和玩游戏对比
+区别不大 我现在最该努力的应该是未来的职业方向 但你说职业方向在哪我又说不出来。只能说学 当个工具的去学
 
 
 
