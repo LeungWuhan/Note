@@ -451,15 +451,15 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 害怕街边的店休息或涨价所以 索性都买一些。害 就当过年了 都喜庆喜庆 过完初三到20号开始就要 真正的对自己严格一点了
 
 
-### 2.15
+### 2.15-16 Sun
 #### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
-- [x] Work (120/500)  ***at least 500/week***
+- [x] Work (520/500)  ***at least 500/week***
 - [ ] Log   ***everyday***
 - [ ] Study  ***ZShell & English & Quantitative trading***
 - [ ] Workout (3/4) ***4 times a week sum 2/100***
 - [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
 
-
+今天是我破纪录的日子，也是我最后的绝唱了。马上我就不跑了 也是这行也算是到头了 ~~~~ 不行我好困 明天再继续写 先睡了
 
 
 
