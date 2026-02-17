@@ -459,12 +459,22 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 - [ ] Workout (3/4) ***4 times a week sum 2/100***
 - [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
 
-今天是我破纪录的日子，也是我最后的绝唱了。马上我就不跑了 也是这行也算是到头了 ~~~~ 不行我好困 明天再继续写 先睡了
+今天是我破纪录的日子，也是我最后的绝唱了。马上我就不跑了 也是这行也算是到头了 一天这种巅峰我这车极限也就只能
+到370 外加今天杂七杂八最多只能算400 两天。其实和之前一天200数据差不多。 不行我好困 明天再继续写 先睡了
+害昨晚又没睡好，贷款的有是东倒西挪
 
 
+## 2026-7 Week
 
+### 2.17 Tue
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [x] Work (200/500)  ***at least 500/week***
+- [x] Log   ***everyday***
+- [ ] Study  ***ZShell***
+- [ ] Workout (/4) ***4 times a week sum 2/100***
+- [ ] Go to bed at 11 PM, No mobile phones or pad alloweed
 
-
+这个算我坑蒙拐骗来的200块吧，哈哈哈只能先往好处想
 
 
 
