@@ -28,5 +28,12 @@ str="I love myself and my dog"
 echo "String is $str"
 echo "Delete ALL 'e' character \t ${str//e}"
 echo "Just delete first match character \t ${str/e}"
-echo "Replace all match character ${str//my/you}"
+echo "Replace all match character \t ${str//my/your}"
+echo "Just match to last \t ${str/%my dog/your}"
+str[3,7]=
+echo "Remove specified string \t  $str"
+
+echo "-----------String matching to determine whether it exits---------------"
+
+
 
