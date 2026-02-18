@@ -17,14 +17,16 @@ echo $str[(i)cd]
 
 echo "------------forloop String----------------"
 for i ({1..$#str}) {
-  echo "$str[i] \n"
+  echo "$str[i]"
 }
 
 #echo {0..100} 
 
 # Replace string character
 echo "-------------Replace string character---------------"
-
-echo "${str/ab} "
-
+str="I love myself and my dog"
+echo "String is $str"
+echo "Delete ALL 'e' character \t ${str//e}"
+echo "Just delete first match character \t ${str/e}"
+echo "Replace all match character ${str//my/you}"
 
