@@ -481,16 +481,15 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 **洗完澡 我作如下战略部署：暂时废弃zshell 全面精力转向3-4月找工作战略部署准备 提前准备熟悉**
 
 
-### 2.18 Wed
+### 2.18 - 2.22
 #### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
 - [x] Workout (1/4) ***4 times a week sum 2/100***
-- [x] Work (200/500)  ***at least 500/week***
+- [x] Work (350/500)  ***at least 500/week***
 - [x] Log   ***everyday***
 - [x] Go to bed at 11 PM, No mobile phones or pad alloweed
       ~Study  ***ZShell***~
 
-190436
-
+19号也就是初三去了黄石，到了22才回来期间就来回顺风车赚了150，
 
 
 
