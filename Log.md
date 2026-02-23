@@ -489,11 +489,21 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 - [x] Go to bed at 11 PM, No mobile phones or pad alloweed
       ~Study  ***ZShell***~
 
-19号也就是初三去了黄石，到了22才回来期间就来回顺风车赚了150，
+19号也就是初三去了黄石，到了22才回来期间就来回顺风车赚了150，接下来就要开始准备面试、找工作了
+感觉同样的压力很大 也不知道方向。只能先顶着压力向前走了。哼哼今天才刷到伟大领袖的气质就是能在极低成功率的绝境下
+自信顶着压力前行 Mr.Mao。 
 
+## 2026-8 Week
 
+### 2.23
+#### 纪律：无条件、无理由服从 Enforce discipline like a Soldier
+- [x] Workout (1/4) ***4 times a week sum 2/100***
+- [ ] Work (/400)  ***at least 500/week***
+- [x] Log   ***everyday***
+- [x] Go to bed at 11 PM, No mobile phones or pad alloweed
+      ~Study  ***ZShell***~
 
-
+因为要找工作和春节的关系，将work调整到400/week 
 
 
 
