@@ -3,7 +3,7 @@
 ### 3.22 2026-12
 #### 2026 纪律: 清除所有债务
 - [ ] Work (/200)  ***at least 200/week***
-- [ ] Workout (1/4) ***4 times a week sum 2/100***
+- [x] Workout (1/4) ***4 times a week sum 2/100***
 - [x] Log   ***everyday***
 - [x] Go to bed at 12 PM, No mobile phones or pad alloweed
 
@@ -14,7 +14,7 @@
 ### 3.22 2026-13
 #### 2026 纪律: 清除所有债务
 - [ ] Work (/200)  ***at least 200/week***
-- [ ] Workout (1/4) ***4 times a week sum 2/100***
+- [ ] Workout (/4) ***4 times a week sum 2/100***
 - [x] Log   ***everyday***
 - [x] Go to bed at 12 PM, No mobile phones or pad alloweed
 
