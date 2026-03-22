@@ -548,9 +548,18 @@ I say let's evolve. Chips fall where they may 这不禁让我想起泰勒的话,
 - [x] Go to bed at 11 PM, No mobile phones or pad alloweed
       ~Study  ***ZShell***~
 
+## 换手机新的开始
 
+### 3.22 2026-10
+#### 2026 纪律: 清除所有债务
+- [ ] Work (/200)  ***at least 200/week***
+- [ ] Workout (1/4) ***4 times a week sum 2/100***
+- [x] Log   ***everyday***
+- [x] Go to bed at 12 PM, No mobile phones or pad alloweed
+      ~Study  ***ZShell***~
 
-
+因为前段时间手机坏了，写log在电脑上又没那么方便 所以停了一段时间。停了这段时间才发现Log的 是为了让你有
+目标感、做事有方向、有节奏。今天是22号 你
 
 ------------------------------------------------------------------
 ------------------------------------------------------------------
