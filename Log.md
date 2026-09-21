@@ -60,8 +60,9 @@
 
 ### 9.21  Mon
 
-- [ ] Work (/200)  ***at least 500/week***
+- [ ] Money (/200)  ***at least 500/week***
 - [ ] Workout (/4) ***100 DAY GOAL:Less than 20% body fat***
+- [ ] Learn to cook by myself  ***(/3)***
 - [x] Log   ***everyday***
 - [ ] Go to bed at 11:30 PM, No mobile phones or pad alloweed
 
