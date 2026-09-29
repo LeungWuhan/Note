@@ -57,16 +57,30 @@
 
 
 ## 2026-38 WEEK Long time No see
-
-### 9.21  Mon
-
-- [ ] Money (/200)  ***at least 500/week***
-- [ ] Workout (/4) ***100 DAY GOAL:Less than 20% body fat***
-- [ ] Learn to cook by myself  ***(/3)***
+- [x] Money (440/200)  ***at least 500/week***
+- [x] Workout (/4) ***100 DAY GOAL:Less than 20% body fat***
+- [x] Learn to cook by myself  ***(/3)***
 - [x] Log   ***everyday***
 - [ ] Go to bed at 11:30 PM, No mobile phones or pad alloweed
 
+### 9.21  Mon
 自从来到惠州后，就一直没有写log了。最近我也是感觉到生活变得非常的混沌 每天浑浑噩噩了 。所以我现在决定 重新制定方向 重新制定目标
 找回生活的掌控感。有个好消息是，目前我所有的网贷业务应该不足7000元（自己美团1k + 美团5k） 虽然还有部分私人帐单没有偿还 但好在没有那么高的利息了。
 目前我准备花个半年时间好好的把我的脸的问题解决了，顺便在这个期间好好去沉淀学点东西。而且我觉得应该更改一下顺序应该在后一天写前一天的log
+
+## 2026-39 WEEK Goal
+- [ ] Money (/200)  ***at least 500/week***
+- [ ] Workout (/4) ***100 DAY GOAL:Less than 20% body fat***
+- [ ] Learn to cook by myself  ***(/3)***
+- [ ] Log   **(/3)**
+- [ ] Go to bed at 11:30 PM, No mobile phones or pad alloweed
+
+### 9.22 Tue
+说实话，这段时间我一直很焦虑,一边是要做点阵激光，不知道钱从何处来，一边还有一个贷款。一焦虑就什么事情都不想干，最近想研究一下GTA5的模组 但是现在又没什么动力，
+感觉每天像个无头苍蝇一样到处乱撞。我们这一代人是绝望的一代，我依然保留我这个观点。本来以为今年还算比较顺，赚了一点小钱，紧接着就给你一个当头一棒。
+说实话，我这个脸，我是想一直想整的，因为这个事情确实弄得我一直很自卑。压力一大，就想着抽烟。
+
+
+
+
 
